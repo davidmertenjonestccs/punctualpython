@@ -1,0 +1,16 @@
+numpy
+pandas
+matplotlib
+scipy
+pygame
+dateutil
+plotnine
+plotly
+tqdm
+pytz
+git
+jupyterlab-git
+openpyxl
+xlsxwriter
+beautifulsoup4
+
